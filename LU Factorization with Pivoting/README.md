@@ -1,4 +1,4 @@
-#LU Factorization Algorithm
+# LU Factorization Algorithm #
 Runs a function luFactor(A) that performs LU decomposition with pivotiing
 inputs:
 A = coefficient matrix
