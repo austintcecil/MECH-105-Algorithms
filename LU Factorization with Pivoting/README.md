@@ -1,9 +1,11 @@
 # LU Factorization Algorithm #
 - Runs a function luFactor(A) that performs LU decomposition with pivotiing
-inputs:
+## Inputs:
 - A = coefficient matrix
-outputs:
+## Outputs:
 - L = lower triangular matrix
 - U = upper triangular matrix
 - P = the permutation matrix
 - And stores the length of square matrix A
+## Example:
+- factoring a square matrix of size (nxn) that is the product of its upper triangular and lower triangular components
