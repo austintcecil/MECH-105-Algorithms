@@ -12,4 +12,6 @@ This is an algorithm that uses the false position method to find the roots of a 
 - fx- the function evaluated at the root location
 - ea- the approximate relative error (%)
 - iter- how many iterations were performed
+## Example:
+- to find the root of a polynomial function for example 3x^2-2x
 
