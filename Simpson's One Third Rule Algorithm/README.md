@@ -5,4 +5,5 @@ Numerical evaluation of integral by Simpson's 1/3 Rule
 - y = the vector of function values with respect to x
 # Outputs:
 - I = the numerical integral calculated
-
+# Example:
+- Evaluating the integral of a non-continuos function or of a data table
