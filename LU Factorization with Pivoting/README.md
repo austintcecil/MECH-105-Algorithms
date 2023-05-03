@@ -8,4 +8,4 @@
 - P = the permutation matrix
 - And stores the length of square matrix A
 ## Example:
-- factoring a square matrix of size (nxn) that is the product of its upper triangular and lower triangular components
+- Factoring a square matrix of size (nxn) that is the product of its upper triangular and lower triangular components
