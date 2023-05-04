@@ -1,9 +1,8 @@
 # Linear Regression Algorithm 
 This algorithm computes the linear regression of a data set and computes the associated R^2 value 
-- Filters outliers from your data set.
-- Computes the linear regression on your filtered data set.
-- Computes the  value from your filtered data and your linear regression function.
-- Here is the function specification. Name: linearRegression
+- Filters outliers from the data set.
+- Computes the linear regression on the filtered data set.
+- Computes the value from the filtered data and the linear regression function.
 # Inputs: 
 - x-values of the data set
 - y-values of the data set
