@@ -6,4 +6,4 @@ Numerical evaluation of integral by Simpson's 1/3 Rule
 # Outputs:
 - I = the numerical integral calculated
 # Example:
-- Evaluating the integral of a non-continuos function or of a data table
+- Evaluating the integral of a non-continuous function or of a data table
